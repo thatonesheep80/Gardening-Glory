@@ -1,0 +1,28 @@
+body
+{
+    background-image: url("forest_bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#a
+{
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+
+#b1
+{
+    size : 80%;
+    background-color: #34b600;
+    border-radius: 40px;
+    border-color: #34b600;
+    width : 80%;
+    color : white;
+    margin-top : 40%;
+}
+
+#drop1
+{
+    color : white;
+}
